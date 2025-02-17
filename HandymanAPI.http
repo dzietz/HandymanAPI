@@ -1,0 +1,6 @@
+@HandymanAPI_HostAddress = http://localhost:5135
+
+GET {{HandymanAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
